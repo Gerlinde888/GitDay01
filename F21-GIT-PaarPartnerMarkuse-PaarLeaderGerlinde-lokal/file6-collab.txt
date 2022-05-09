@@ -1,0 +1,1 @@
+Accept the GitHub invitation from your pair-leader. Clone the GitHub repository, create a new txt file (e.g. file6-collab.txt) add some text to it, commit it and push it to the central repository. Check if the new file is on the central repository.
